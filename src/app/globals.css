@@ -1,0 +1,14 @@
+html {
+  font-size: 62.5%; /* Ajusta para que 10px = 1rem */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-archivo);
+  -webkit-font-smoothing: antialiased;
+}
